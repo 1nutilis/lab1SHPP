@@ -1,2 +1,1 @@
-# lab1SHPP
-lab1 ШПП
+Откройте папку src/com/employees, чтобы проверить код
